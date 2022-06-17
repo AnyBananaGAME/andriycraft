@@ -1,6 +1,6 @@
 👋 Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii, I’m @andriycraft
 <br>
-Check this out ![https://github.com/PurpleBirdMC/PurpleBird](https://github.com/PurpleBirdMC/PurpleBird)
+Check this out <a href="https://github.com/PurpleBirdMC/PurpleBird">https://github.com/PurpleBirdMC/PurpleBird</a>
 <br>
 <br>
 Pronouns: It
