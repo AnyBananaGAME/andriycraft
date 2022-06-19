@@ -6,3 +6,13 @@ Check this out <a href="https://github.com/PurpleBirdMC/PurpleBird">https://gith
 Pronouns: It
 <br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true)
+
+
+Currently <s>working</s> dying on:
+
+   * AC 2.0
+   * KinashServerMCBE
+   * PurpleBird
+   * (doing many stuff) on BlueBird repo
+   * js-forums
+   * Many private projects
