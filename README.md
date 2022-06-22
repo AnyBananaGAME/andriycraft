@@ -12,8 +12,8 @@ Pronouns: It
 
 Currently <s>working</s> dying on:
 
-   * AC 2.0
-   * KinashServerMCBE
+   * AC 2.0 [3% done]
+   * KinashServerMCBE [5% done]
    * PurpleBird
    * (doing many stuff) on BlueBird repo
    * js-forums
