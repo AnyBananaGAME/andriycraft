@@ -1,3 +1,5 @@
+Warning: I *may* be inactive due to 6 projects that im currently working on!
+
 👋 Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii, I’m @andriycraft
 <br>
 Check this out <a href="https://github.com/PurpleBirdMC/PurpleBird">https://github.com/PurpleBirdMC/PurpleBird</a>
@@ -12,7 +14,7 @@ Pronouns: It
 
 Currently <s>working</s> dying on:
 
-   * AC 2.0 [5% done] Latest commit: Implemented some stuff and sOcIaL fEaTuReS
+   * AC 2.0 [5% done] Latest commit: s
    * KinashServerMCBE [5% done]
    * PurpleBird
    * (doing many stuff) on BlueBird repo
