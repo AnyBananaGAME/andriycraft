@@ -14,7 +14,7 @@ Pronouns: It
 
 Currently <s>working</s> dying on:
 
-   * AC 2.0 [7% done] Latest commit: Automatic commit [push to repo.bat]
+   * AC 2.0 [7% done] Latest commit: Automatic commit [push to repo.bat] # if (client.offline) { log('Dropped packet from unknown client', 'info') return; }
    * KinashServerMCBE [6% done]
    * PurpleBird [5% done]
    * (doing many stuff) on BlueBird repo
