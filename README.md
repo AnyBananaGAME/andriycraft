@@ -14,9 +14,9 @@ Pronouns: It
 
 Currently <s>working</s> dying on:
 
-   * AC 2.0 [5% done] Latest commit: s
-   * KinashServerMCBE [5% done]
-   * PurpleBird
+   * AC 2.0 [7% done] Latest commit: Automatic commit [push to repo.bat]
+   * KinashServerMCBE [6% done]
+   * PurpleBird [5% done]
    * (doing many stuff) on BlueBird repo
    * js-forums
    * Many private projects
