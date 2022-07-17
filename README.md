@@ -14,7 +14,7 @@ Pronouns: It
 
 Currently <s>working</s> dying on:
 
-   * AC 2.0 [7% done] Latest commit: Updated clib to 1.0.1
+   * AC 2.0 [10% done] Latest commit: hardcore dev
    * KinashServerMCBE [6% done]
    * PurpleBird [5% done]
    * (doing many stuff) on BlueBird repo
