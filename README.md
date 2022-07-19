@@ -1,10 +1,9 @@
-Warning: I *may* be inactive due to 6 projects that im currently working on!
-
-Discord: Kotinash#4382
-
 👋 Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii, I’m @andriycraft
 <br>
 <br>
+
+Discord: Kotinash#4382
+
 Pronouns: It
 <br>
 "Fun" fact: i am learning C++ and Java
