@@ -17,6 +17,6 @@ Currently <s>working</s> dying on:
    * AC 2.0 [10% done] Latest commit: hardcore dev
    * KinashServerMCBE [6% done]
    * PurpleBird [5% done]
-   * <s>(doing many stuff) on BlueBird repo</s>
+   * (doing many stuff) on BlueBird repo
    * js-forums
    * Many private projects
