@@ -10,7 +10,7 @@ Pronouns: It
 "Fun" fact: i am learning C++ and Java
 <br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriycraft&langs_count=999999)]
+
 
 Currently <s>working</s> dying on:
 
