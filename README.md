@@ -2,7 +2,7 @@
 <br>
 <br>
 
-Discord: Kotinash#4382
+
 
 Pronouns: It
 <br>
