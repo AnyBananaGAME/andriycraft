@@ -13,7 +13,7 @@ Pronouns: It
 
 Currently <s>working</s> dying on:
 
-   * AC 2.0 [10% done] Latest commit: hardcore dev
+   * AC 2.0 [16% done]
    * KinashServerMCBE [6% done]
    * PurpleBird [5% done]
    * (doing many stuff) on BlueBird repo
