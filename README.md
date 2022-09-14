@@ -3,7 +3,7 @@
 <br>
 
 
-<img src="https://profile-counter.glitch.me/{andriycraft}/count">
+
 
 Pronouns: It
 <br>
