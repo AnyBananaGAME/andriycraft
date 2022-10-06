@@ -11,11 +11,12 @@ Pronouns: It
 
 Currently <s>working</s> dying on:
 
-   * AC 2.0 [28% done]
-   * <s>KinashServerMCBE [6% done]</s>
+   * AC 2.0 [30% done]
+   * GreenFrogMCBE [10% done]
    * (doing many stuff) on BlueBird repo
    * js-forums
    * Many private projects
 
 Want to block bad bots and vpns on your site?
+
 Check this out: <a href="https://github.com/andriycraft/badips">Public bad ip list</a>
