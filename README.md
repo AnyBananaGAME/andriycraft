@@ -16,6 +16,7 @@ Currently <s>working</s> dying on:
    * (doing many stuff) on BlueBird repo
    * js-forums
    * Many private projects
+   * candlemc [idk how much% done]
 
 Want to block bad bots and vpns on your site?
 
