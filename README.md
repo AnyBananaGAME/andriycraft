@@ -4,7 +4,7 @@
 
 Pronouns: It
 <br>
-"Fun" fact: i am learning C++ and Java
+"Fun" fact: i am learning Java
 <br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true)
