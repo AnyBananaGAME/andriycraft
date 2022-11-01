@@ -21,3 +21,6 @@ Currently <s>working</s> dying on:
 Want to block bad bots and vpns on your site?
 
 Check this out: <a href="https://github.com/andriycraft/badips">Public bad ip list</a>
+
+People, who viewed my profile:
+<img src="https://profile-counter.glitch.me/andriycraft/count.svg" />
