@@ -25,5 +25,3 @@ Check this out: <a href="https://github.com/andriycraft/badips">Public bad ip li
 People, who viewed my profile:
 
 <img src="https://profile-counter.glitch.me/andriycraft/count.svg" />
-
-<img src="https://i.ibb.co/nzrd87V/5bf7cc95a1f8676027188997b0770473.jpg">
